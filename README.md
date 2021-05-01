@@ -10,3 +10,7 @@ Compiler Design Lab work done in Semester VI.
 ### [Count number of integers and floating point values in a file](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/LexPrograms/Numbers)
 
 ### [Lexical Analyzer](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/LexPrograms/Analyzer)
+
+## Parser
+
+### [Recursive Descent Parser](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/Parser)
