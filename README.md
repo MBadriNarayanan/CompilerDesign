@@ -14,3 +14,13 @@ Compiler Design Lab work done in Semester VI.
 ## Parser
 
 ### [Recursive Descent Parser](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/Parser)
+
+## YAAC
+
+### [Evaluate a Postfix Expression](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/YAAC/Postfix)
+
+### [Identify valid Arithmetic Expression](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/YAAC/Arithmetic)
+
+### [Identify a Identifier which starts with a letter followed by any number of digits](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/YAAC/Identifier)
+
+### [Calculator](https://github.com/MBadriNarayanan/CompilerDesign/tree/main/YAAC/Calculator)
