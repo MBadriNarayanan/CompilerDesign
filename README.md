@@ -1,6 +1,6 @@
 # CompilerDesignLab
 
-Compiler Design Lab work done during VI Semester VI
+Compiler Design Lab work done during VI Semester
 
 ## Lex Programs
 
